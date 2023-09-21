@@ -384,10 +384,7 @@ button {
 
 @media screen and (max-width: 600px) {
 
-  .inpwrap{
-    margin-top: 30px;
-    margin-bottom: 30px;
-  }
+ */
   .inpwrapper {
     height: 30px;
   }
